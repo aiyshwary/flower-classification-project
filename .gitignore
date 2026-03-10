@@ -1,0 +1,15 @@
+# Dataset and large binary files
+flowers/
+data.pickle
+Flowers.h5
+
+# Saved output images
+*.png
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
